@@ -1,0 +1,41 @@
+30 VIDEO REEL - gaya contoh kiswah (belum diunggah)
+Gaya: narasi bercerita, subtitle kapital 2-4 kata dengan sorotan kotak biru, logo NEWS biru.
+Tiap video: Video_N_*.mp4, Thumbnail_N_*.png, caption_N.txt, narasi_N.txt. Semua di bawah 60 detik.
+Semua sudah dicek per klip (frame awal/tengah/akhir). Bila nama pejabat disebut, yang tampil pejabat itu sendiri
+(footage kanal resmi, D:\newshaji\footage\pejabat). Musik latar belum ada (taruh di aset_brand\musik.mp3 bila mau).
+
+1  Data haji dipadankan (SEB tiga menteri)
+2  Visa umrah multi-entry setahun
+3  Dana umrah & rekening penampungan (OJK)
+4  Dana haji aman & produktif (BPKH)               - tampil Menteri Irfan Yusuf
+5  Saudi siapkan haji 1448 H
+6  Pedoman pengawasan haji reguler
+7  Umrah tetap aman, utamakan penerbangan langsung  - tampil Wamenhaj Dahnil
+8  34 jemaah umrah tertahan di Kualanamu
+9  484 mahasiswa ikut seleksi tenaga pendukung haji (sumber pembanding media kecil)
+10 94 ASN disertifikasi jadi pembimbing haji        - tampil Menteri
+11 Sa'i Walk and Run Gowa                           - tampil Menteri (sumber pembanding media kecil)
+12 UMKM didorong masuk rantai pasok haji            - tampil Menteri
+13 Museum Haji Indonesia dijajaki                   - tampil Wamenhaj Dahnil
+14 Perlindungan jemaah umrah saat force majeure
+15 Standar perilaku & disiplin petugas haji         - tampil Dirjen Harun Al Rasyid (tema mirip video 6)
+
+16-30: semua topik terkonfirmasi di situs resmi pemerintah (haji.go.id, kemkes.go.id, infopublik.id,
+danantaraindonesia.co.id, pep.gov.sa). Tidak ada nama pejabat disebut.
+16 Kemenhaj catat 244 kasus haji & umrah, kerugian Rp247,65 miliar
+17 Pegawai Kemenhaj dilarang jadi pengurus KBIHU
+18 Tujuh bekal jemaah dari Manasik Akbar Makassar
+19 Barang jemaah wafat dikembalikan ke keluarga
+20 Indonesia (Danantara) punya hotel & lahan di Makkah
+21 Pantau kepadatan tawaf & sa'i secara langsung
+22 Istitaah kesehatan haji 2027 diperketat
+23 Persiapan haji 2027 dimulai dari daerah
+24 Empty leg pesawat haji untuk wisatawan Timur Tengah (acara sama dgn video 12)
+25 Jadwal lengkap perjalanan haji 2027
+26 Kemenhaj ajak mahasiswa masuk ekosistem haji
+27 Kemenhaj perkuat pengawasan internal
+28 Usulan tarif pemeriksaan kesehatan calon haji (masih usulan)
+29 Seleksi petugas haji 2027 lewat tes CAT
+30 Mushaf abad ke-15 di Museum Al-Qur'an Makkah
+
+Sumber per video: D:\newshaji\work7\sumber.txt
